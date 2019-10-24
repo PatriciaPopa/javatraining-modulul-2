@@ -1,0 +1,3 @@
+#comment_cu_care_descriu_fisierul
+#Thu Oct 24 23:02:20 EEST 2019
+dog=caine
